@@ -1,4 +1,4 @@
-<h1 align="center">Jestem Szachista!</h1>
+<h1 align="center">Jestem Szachista! <br> Twój programista w zasięgu ręki.</h1>
 <h3 align="center">Szachista is newbie developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szachistadev&label=Profile%20views&color=0e75b6&style=flat" alt="szachistadev" /> </p>
